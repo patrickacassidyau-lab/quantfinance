@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter notebooks
+*.ipynb
+
+# Data files
+data/
+*.csv
+*.xlsx
+*.h5
+*.pkl
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/
+
+# Plots (we want to keep these for the report)
+# plots/
+
+# Large files
+*.pdf
+
+# Database files
+*.db
+*.sqlite
+
+# Cache files
+.cache/
+
+# Test output
+.test_output/
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+.env
+.env.local
+
+# Python specific
+*.pyo
+*.pyd
+*.pyi
+
+# MacOS
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
+*.code-workspace
